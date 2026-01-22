@@ -18,7 +18,7 @@
 <h3 align="center">Languages, Backend & APIs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,net,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,net,cs,cpp,py" />
   </a>
 </p>
 <!--php-->
