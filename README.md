@@ -46,11 +46,11 @@
 </a>
 </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniehernandez&show_icons=true&locale=en&layout=compact" alt="anniehernandez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anniehernandez&show_icons=true&locale=en" alt="anniehernandez" /></p>
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniehernandez&show_icons=true&locale=en&layout=compact&theme=radical" alt="anniehernandez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anniehernandez&show_icons=true&locale=en&theme=radical" alt="anniehernandez" /></p>
+
 <!--
 **anniehernandez/anniehernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
