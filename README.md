@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Monterrey with a passing for Web Development and web Desing👩‍💻</h3>
 
 <!-- - 🔭 I’m currently working on **a Web Page for Terramia consultants**-->
-- 🌱 I’m currently learning **PostgreSQL / Vue**
+- 🌱 I’m currently learning **PostgreSQL / Next.js**
 - 📫 How to reach me **anasofia.hernandez002@gmail.com**</br>
 
 <h2 align="center">SKILLS✏️</h2>
